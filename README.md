@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Noble Sunil
@@ -162,4 +161,3 @@ Cloud Solutions Architect
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB)
 
 </div>
-````
