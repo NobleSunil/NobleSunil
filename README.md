@@ -1,9 +1,7 @@
 <div align="center">
 
 # Noble Sunil
-
 ### Software Engineering Student • AI/ML Enthusiast • Python Developer • Cloud Computing Learner
-
 *"Building software that solves problems, not just projects that fill a resume."*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=180&section=header&text=Software%20Engineer%20in%20Progress&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
@@ -48,7 +46,6 @@ I'm currently working toward becoming a software engineer capable of designing s
 # 💻 Tech Stack
 
 ### Languages
-
 - Python
 - Java
 - SQL
@@ -56,23 +53,19 @@ I'm currently working toward becoming a software engineer capable of designing s
 - CSS
 
 ### Backend
-
 - Django
 - REST APIs
 
 ### Database
-
 - MySQL
 
 ### Cloud & DevOps
-
 - AWS
 - Docker
 - Git
 - GitHub
 
 ### Development Tools
-
 - VS Code
 - IntelliJ IDEA
 - Linux
@@ -109,17 +102,12 @@ Cloud Solutions Architect
 # 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
 </p>
 
 ---
@@ -138,17 +126,37 @@ Cloud Solutions Architect
 
 # 🌐 Connect With Me
 
-<p align="center">
+```aura width=150 height=44 link="https://www.linkedin.com/in/YOUR_LINKEDIN" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/linkedin/ffffff"
+  text="LinkedIn"
+  backgroundColor="#0077B5"
+  width={150}
+  height={44}
+  iconSize="22"
+  gradientStops={[
+    { offset: '0%', color: '#0077B5' },
+    { offset: '50%', color: '#00A0DC' },
+    { offset: '100%', color: '#0077B5' },
+  ]}
+/>
+```
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+```aura width=150 height=44 link="mailto:YOUR_EMAIL" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/gmail/ffffff"
+  text="Gmail"
+  backgroundColor="#EA4335"
+  width={150}
+  height={44}
+  iconSize="22"
+  gradientStops={[
+    { offset: '0%', color: '#EA4335' },
+    { offset: '50%', color: '#FBBC05' },
+    { offset: '100%', color: '#EA4335' },
+  ]}
+/>
+```
 
 ---
 
