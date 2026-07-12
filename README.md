@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Building%20Toward%20Architect&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 </div>
 
@@ -66,18 +66,6 @@ Architect
 
 ---
 
-### 🗂️ Selected Work
-
-<table align="center">
-<tr><th>Project</th><th>What it does</th><th>Stack</th></tr>
-<tr><td><b>Census Income Prediction</b></td><td>Classifies income bracket from census features</td><td>Logistic Reg · Random Forest · XGBoost</td></tr>
-<tr><td><b>Calorie Burn Predictor</b></td><td>Estimates calories burned from workout data</td><td>Regression · Feature Engineering</td></tr>
-<tr><td><b>Customer Segmentation</b></td><td>Clusters customers by purchase behavior</td><td>K-Means</td></tr>
-<tr><td><b>FitTrack</b></td><td>IoT rep-counter with a real-time state machine</td><td>ESP8266 · MPU6050</td></tr>
-</table>
-
----
-
 <div align="center">
 
 ### 📊 Activity
@@ -96,8 +84,16 @@ Architect
 <a href="https://www.linkedin.com/in/noblesunil"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin"/></a>
 <a href="mailto:sunilnoble1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat&logo=gmail"/></a>
 
-<sub>"Consistency beats talent when talent refuses to work."</sub>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=100&section=footer"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+
+<br/>
+
+<sub>✦ Fundamentals compound. Specialization comes later. ✦</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=100&section=footer"/>
 
 </div>
