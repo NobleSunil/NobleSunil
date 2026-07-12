@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,50:2D1B4E,100:6D28D9&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
-<sub>✦ <i>Per Aspera Ad Astra</i> ✦</sub>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:3A3A3A,100:C0C0C0&height=220&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Per%20Aspera%20Ad%20Astra&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn"/>
 
 </div>
 
@@ -71,9 +70,6 @@ Architect
 
 ### 📊 Activity
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NobleSunil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleSunil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
-
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NobleSunil&theme=github-compact&bg_color=0D1117&hide_border=true"/>
 
 </div>
@@ -87,6 +83,6 @@ Architect
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:6D28D9,100:0A0A0A&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:C0C0C0,100:000000&height=100&section=footer"/>
 
 </div>
