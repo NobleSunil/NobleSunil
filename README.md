@@ -1,100 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Noble%20Sunil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MLOps%20Engineer%20in%20the%20Making&descAlignY=55&descSize=20"/>
-
-<a href="https://www.linkedin.com/in/noblesunil">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sunilnoble1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=MCA+Student+%40+Marian+College+Kuttikanam;Machine+Learning+%2B+DevOps+%3D+MLOps;Building+models+that+actually+ship;Turning+data+into+deployable+systems"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=MLOps%20Engineer%20%7C%20ML%20%2B%20DevOps&descAlignY=65&descSize=18"/>
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+```py
+class Noble:
+    def __init__(self):
+        self.role = "MCA Student → MLOps Engineer"
+        self.institute = "Marian College Kuttikanam"
+        self.background = "BCA + Data Science (Luminar Technolab)"
+        self.mission = "Ship models that survive contact with production"
 
-I'm an MCA student building toward a career in **MLOps Engineering** — bridging machine learning and DevOps to ship models that don't just work in notebooks, but run reliably in production.
+    def currently_learning(self):
+        return ["System Design", "MLOps Pipelines", "Cloud Deployment", "DSA"]
 
-- 🎓 MCA student at Marian College Kuttikanam (BCA background)
-- 🧠 8 months of hands-on Data Science training (Luminar Technolab)
-- ⚙️ Focused on the full ML lifecycle — from model building to deployment and monitoring
-- 🚀 Currently sharpening DSA + backend fundamentals to become a well-rounded engineer
-
-```text
-Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engineer
+    def connect(self):
+        return {
+            "linkedin": "linkedin.com/in/noblesunil",
+            "email": "sunilnoble1@gmail.com"
+        }
 ```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### ⚡ Stack
 
----
+**Languages**
+`Python` `Java` `SQL`
 
-### 📂 Featured Projects
+**ML / Data**
+`scikit-learn` `Pandas` `NumPy` `XGBoost`
 
-| Project | Description | Focus |
-|---|---|---|
-| 🩺 **Census Income Prediction** | Predicts income bracket from census data using classification models | Logistic Regression, Random Forest, XGBoost |
-| 🔥 **Exercise Calorie Burn Predictor** | Estimates calories burned from workout metrics | Regression, Feature Engineering |
-| 🛍️ **Customer Segmentation** | Groups customers by purchasing behavior | K-Means Clustering, Unsupervised Learning |
-| ⌚ **FitTrack** | IoT rep-counting fitness tracker | ESP8266, MPU6050, State Machines |
+**Backend**
+`Django` `REST APIs`
 
----
+**Cloud / Ops**
+`AWS` `Docker` `Git`
 
-### 📈 GitHub Stats
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NobleSunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleSunil&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧭 Trajectory
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NobleSunil&theme=tokyo-night&hide_border=true"/>
-</p>
+```
+Data Science
+     ↓
+ML Engineering
+     ↓
+MLOps
+     ↓
+Cloud Platform Eng.
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleSunil&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Focus right now:** production-grade ML pipelines, not just notebooks.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🐍 Contribution Snake
+### 🗂️ Selected Work
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NobleSunil/NobleSunil/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> *(To enable this: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in your profile repo — I can walk you through the workflow file if you want.)*
+<table align="center">
+<tr><th>Project</th><th>What it does</th><th>Stack</th></tr>
+<tr><td><b>Census Income Prediction</b></td><td>Classifies income bracket from census features</td><td>Logistic Reg · Random Forest · XGBoost</td></tr>
+<tr><td><b>Calorie Burn Predictor</b></td><td>Estimates calories burned from workout data</td><td>Regression · Feature Engineering</td></tr>
+<tr><td><b>Customer Segmentation</b></td><td>Clusters customers by purchase behavior</td><td>K-Means</td></tr>
+<tr><td><b>FitTrack</b></td><td>IoT rep-counter with a real-time state machine</td><td>ESP8266 · MPU6050</td></tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💭 "Consistency beats talent when talent refuses to work."
+### 📊 Activity
 
-![](https://komarev.com/ghpvc/?username=NobleSunil&style=for-the-badge&color=2563EB)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NobleSunil&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleSunil&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NobleSunil&theme=github-compact&bg_color=0D1117&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/noblesunil"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin"/></a>
+<a href="mailto:sunilnoble1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat&logo=gmail"/></a>
+
+<sub>"Consistency beats talent when talent refuses to work."</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=100&section=footer"/>
 
 </div>
