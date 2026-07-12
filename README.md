@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=trebuchet_ms&category=stoicism&bg_color=0D1117&quote_color=60A5FA&author_color=94A3B8&accent_color=2563EB&border_color=2563EB&border_width=1&border_radius=12" width="480"/>
 
 </div>
 
