@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
 
 </div>
 
@@ -86,14 +88,6 @@ Architect
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
-
-<br/>
-
-<sub>✦ Fundamentals compound. Specialization comes later. ✦</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2563EB,100:0F172A&height=100&section=footer"/>
 
 </div>
