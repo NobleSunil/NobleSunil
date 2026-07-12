@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=MLOps%20Engineer%20%7C%20ML%20%2B%20DevOps&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=24&height=200&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Building%20Toward%20Architect&descAlignY=65&descSize=18"/>
 
 </div>
 
@@ -9,13 +9,14 @@
 ```py
 class Noble:
     def __init__(self):
-        self.role = "MCA Student → MLOps Engineer"
+        self.role = "MCA Student → Software Engineer"
         self.institute = "Marian College Kuttikanam"
         self.background = "BCA + Data Science (Luminar Technolab)"
-        self.mission = "Ship models that survive contact with production"
+        self.exploring = ["ML Engineering", "DevOps", "Backend Systems"]
+        self.mission = "Master the fundamentals, find what clicks, build toward Architect"
 
     def currently_learning(self):
-        return ["System Design", "MLOps Pipelines", "Cloud Deployment", "DSA"]
+        return ["System Design", "DSA", "Cloud Fundamentals", "Backend Engineering"]
 
     def connect(self):
         return {
@@ -50,16 +51,14 @@ class Noble:
 ### 🧭 Trajectory
 
 ```
-Data Science
+Software Engineer
      ↓
-ML Engineering
+ML  ·  DevOps  ·  Backend   (path TBD)
      ↓
-MLOps
-     ↓
-Cloud Platform Eng.
+Architect
 ```
 
-**Focus right now:** production-grade ML pipelines, not just notebooks.
+**Focus right now:** building strong fundamentals across the stack, letting real project work decide the specialization.
 
 </td>
 </tr>
