@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,50:1C1C1C,100:B8860B&height=220&section=header&text=NOBLE%20SUNIL&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
 
-<img src="https://readme-daily-quotes.vercel.app/api?theme=transparent&font=trebuchet_ms&category=stoicism&quote_color=60A5FA&author_color=94A3B8&accent_color=2563EB&border_width=0" width="700"/>
+<sub>✦ <i>Per Aspera Ad Astra</i> ✦</sub>
 
 </div>
 
@@ -88,6 +88,6 @@ Architect
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2563EB,100:0F172A&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:B8860B,100:0A0A0A&height=100&section=footer"/>
 
 </div>
