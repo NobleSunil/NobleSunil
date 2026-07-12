@@ -70,7 +70,7 @@ Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engin
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NobleSunil&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
