@@ -65,8 +65,8 @@ Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engin
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NobleSunil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleSunil&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleSunil&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engin
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/NobleSunil/NobleSunil/output/github-contribution-grid-snake.svg"/>
 </p>
 
 > *(To enable this: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in your profile repo — I can walk you through the workflow file if you want.)*
@@ -93,7 +93,7 @@ Data Scientist  →  ML Engineer  →  MLOps Engineer  →  Cloud/Platform Engin
 
 ### 💭 "Consistency beats talent when talent refuses to work."
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB)
+![](https://komarev.com/ghpvc/?username=NobleSunil&style=for-the-badge&color=2563EB)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
 
