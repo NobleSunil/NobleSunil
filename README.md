@@ -9,14 +9,14 @@
 ```py
 class Noble:
     def __init__(self):
-        self.role = "MCA Student → Software Engineer"
+        self.role = "MCA Student → AI/ML Engineer"
         self.institute = "Marian College Kuttikanam"
         self.background = "BCA + Data Science (Luminar Technolab)"
         self.exploring = ["ML Engineering", "DevOps", "Backend Systems"]
         self.mission = "Master the fundamentals, find what clicks, build toward Architect"
 
     def currently_learning(self):
-        return ["System Design", "DSA", "Cloud Fundamentals", "Backend Engineering"]
+        return ["ML/DL", "GenAI", "Cloud Fundamentals", "Backend Engineering"]
 
     def connect(self):
         return {
@@ -51,9 +51,9 @@ class Noble:
 ### 🧭 Trajectory
 
 ```
-Software Engineer
+AI/ML Engineer
      ↓
-ML  ·  DevOps  ·  Backend   (path TBD)
+MLOPs  ·  DevOps  ·  Backend   (path TBD)
      ↓
 Architect
 ```
