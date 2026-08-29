@@ -37,7 +37,7 @@ class Noble:
 `Python` `SQL` `Java`
 
 **ML / Data**
-`scikit-learn` `Pandas` `NumPy` `MatplotLib` `Seaborn`
+`scikit-learn` `Pandas` `NumPy` `MatplotLib`
 
 **Backend**
 `Django` `REST APIs`
