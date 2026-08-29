@@ -34,10 +34,10 @@ class Noble:
 ### ⚡ Stack
 
 **Languages**
-`Python` `Java` `SQL`
+`Python` `SQL` `Java`
 
 **ML / Data**
-`scikit-learn` `Pandas` `NumPy` `XGBoost`
+`scikit-learn` `Pandas` `NumPy` `MatplotLib` `Seaborn`
 
 **Backend**
 `Django` `REST APIs`
