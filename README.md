@@ -9,14 +9,24 @@
 ```py
 class Noble:
     def __init__(self):
-        self.role = "MCA Student → AI/ML Engineer"
+        self.role = "MCA Student → Software Developer"
         self.institute = "Marian College Kuttikanam"
         self.background = "BCA + Data Science (Luminar Technolab)"
-        self.exploring = ["ML Engineering", "DevOps", "Backend Systems"]
-        self.mission = "Master the fundamentals, find what clicks, build toward Architect"
+        self.exploring = [
+            "Software Development",
+            "Backend Engineering",
+            "AI/ML",
+            "Cloud & DevOps"
+        ]
+        self.mission = "Understand deeply. Build consistently. Keep exploring."
 
     def currently_learning(self):
-        return ["ML/DL", "GenAI", "Cloud Fundamentals", "Backend Engineering"]
+        return [
+            "Java",
+            "SQL",
+            "Backend Development",
+            "Data Structures & Algorithms"
+        ]
 
     def connect(self):
         return {
@@ -34,31 +44,47 @@ class Noble:
 ### ⚡ Stack
 
 **Languages**
-`Python` `SQL` `Java`
+`Java` `Python` `SQL`
 
-**ML / Data**
-`scikit-learn` `Pandas` `NumPy` `MatplotLib`
+**Software Development**
+`OOP` `Git` `GitHub`
 
 **Backend**
-`Django` `REST APIs`
+`Django` `FastAPI` `REST APIs`
 
-**Cloud / Ops**
-`AWS` `Docker` `Git`
+**Databases**
+`SQLite` `PL/SQL`
+
+**Data / ML**
+`scikit-learn` `Pandas` `NumPy`
+
+**Tools & Infrastructure**
+`Docker` `Linux`
 
 </td>
+
 <td valign="top" width="50%">
 
-### 🧭 Trajectory
+### 🧭 Exploring
 
-```
-AI/ML Engineer
-     ↓
-MLOPs  ·  DevOps  ·  Backend   (path TBD)
-     ↓
-Architect
+```text
+Software Development
+        ↓
+ Backend Engineering
+        ↓
+ ┌──────┼──────┐
+ ↓      ↓      ↓
+AI/ML  Cloud  DevOps
+        ↓
+     Architect
 ```
 
-**Focus right now:** building strong fundamentals across the stack, letting real project work decide the specialization.
+**Focus right now:**
+Going deeper into Java, SQL, backend development and DSA while continuing to explore how different areas of technology connect.
+
+I don't want to be limited to a single technology.
+
+I want to understand the fundamentals, build real things, and let experience shape where I specialize.
 
 </td>
 </tr>
@@ -78,8 +104,7 @@ Architect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/noblesunil"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin"/></a>
-<a href="mailto:sunilnoble1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/noblesunil"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin"/></a> <a href="mailto:sunilnoble1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat&logo=gmail"/></a>
 
 <br/><br/>
 
